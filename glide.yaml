@@ -1,4 +1,7 @@
-package: github.com/cirocosta/cr
+# Sniperkit-Bot
+# - Status: analyzed
+
+package: github.com/sniperkit/snk.fork.cr
 import:
 - package: github.com/hashicorp/terraform
   subpackages:

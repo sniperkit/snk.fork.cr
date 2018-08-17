@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -10,8 +15,9 @@ import (
 	"time"
 
 	"github.com/alexflint/go-arg"
-	"github.com/cirocosta/cr/lib"
 	"github.com/rs/zerolog"
+
+	"github.com/sniperkit/snk.fork.cr/lib"
 )
 
 var version string = "dev"

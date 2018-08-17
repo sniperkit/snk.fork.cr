@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 build:
   flags: '-tags netgo'
   ldflags: '-X main.version={{ .Version }}'

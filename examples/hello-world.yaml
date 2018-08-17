@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 Jobs:
   - Id: 'SayFoo'
     Run: 'echo foo'
